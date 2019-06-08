@@ -1,0 +1,36 @@
+#nav-container {
+    border: 1px solid black;
+    text-align: center;
+    height: 107px;
+    width: 100%;
+}
+#main-nav-div {
+   display: inline-block;
+}
+
+#main-links {
+    list-style: none;
+    display: inline-flex;
+    padding: 4px;
+}
+
+#main-nav {
+    display: block;
+    margin-top: 20px;
+}
+
+
+li  {
+    padding-left: 60px;
+    padding-right: 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover { 
+    color: grey;
+}
