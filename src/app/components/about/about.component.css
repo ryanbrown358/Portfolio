@@ -44,3 +44,9 @@ h4 {
 #transition {
 	font-size: 50px;
 }
+
+#skills-info {
+	font-family: 'Oswald';
+	font-weight: bold;
+	color: white;
+}
