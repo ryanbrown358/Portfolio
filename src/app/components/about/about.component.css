@@ -1,0 +1,46 @@
+.jumbotron {
+    text-align: center;
+	font-family: 'Oswald';
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	border-radius: 0%;
+}
+
+#about-photo {
+	margin: 0;
+	padding: 0;
+	height: 75%;
+	width: auto;
+}
+
+p {
+	font-family: 'Oswald';
+}
+
+h4 {
+	font-family: 'Oswald';
+}
+
+#first-intro {
+	line-height: 3em;
+	font-size: 20px;
+}
+
+#second-intro {
+	line-height: 3em;
+	font-size: 20px;
+}
+
+
+
+#skills {
+	background-color: black;
+	height: 500px;
+	color: white;
+}
+
+
+#transition {
+	font-size: 50px;
+}
